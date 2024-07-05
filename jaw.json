@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1-SNAPSHOT",
+  "version": "0.0.2",
   "license": "",
   "extract_dir": "jaw",
-  "url": "https://github.com/gplassard/jaw/releases/download/early-access/jaw-0.0.1-SNAPSHOT-all.jar",
+  "url": "https://github.com/gplassard/jaw/releases/download/v0.0.2/jaw-0.0.2.zip",
   "depends": "",
   "homepage": "",
   "hash": "",
-  "bin": "jaw-0.0.1-SNAPSHOT-all.jar"
+  "bin": "bin/jaw.bat"
 }
