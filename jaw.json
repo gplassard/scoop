@@ -1,7 +1,7 @@
 {
   "version": "0.0.1-SNAPSHOT",
   "license": "",
-  "extract_dir": "",
+  "extract_dir": "jaw",
   "url": "https://github.com/gplassard/jaw/releases/download/early-access/jaw-0.0.1-SNAPSHOT-all.jar",
   "depends": "",
   "homepage": "",
