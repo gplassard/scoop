@@ -1,9 +1,9 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "Watch CloudWatch log groups",
   "homepage": "https://github.com/gplassard/jaw",
-  "url": "https://github.com/gplassard/jaw/releases/download/v0.0.2/jaw-0.0.2.zip",   
-  "hash": "2a82e201e3357a50086fac7b0ecebd5806edd3f6ec6e7738edb95432fd7c7dd2",
-  "extract_dir": "jaw-0.0.2",
+  "url": "https://github.com/gplassard/jaw/releases/download/v0.0.6/jaw-0.0.6.zip",   
+  "hash": "0a7d9297e957b73f1058642c62c488a73c29c3106c1bd5b2efc63bf79b9d9f16",
+  "extract_dir": "jaw-0.0.6",
   "bin": "bin\\jaw.bat"
 }
