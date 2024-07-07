@@ -1,0 +1,9 @@
+{
+  "version": "0.0.2",
+  "description": "Watch CloudWatch log groups",
+  "homepage": "https://github.com/gplassard/jaw",
+  "url": "https://github.com/gplassard/jaw/releases/download/v0.0.2/jaw-0.0.2.zip",   
+  "hash": "2a82e201e3357a50086fac7b0ecebd5806edd3f6ec6e7738edb95432fd7c7dd2",
+  "extract_dir": "jaw-0.0.2",
+  "bin": "bin\\jaw.bat"
+}
