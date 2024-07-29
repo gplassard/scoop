@@ -1,0 +1,10 @@
+{
+    "version": "3.44.4",
+    "description": "Simple CLI to drop input until '{' is encountered (designed to be used in conjunction with https://github.com/TylerBrock/saw and https://github.com/stedolan/jq) for logs produced by an AWS Lambda with NodeJS runtime.",
+    "homepage": "https://github.com/gplassard/pretty-logs",
+    "url": "https://github.com/oracle/oci-cli/releases/download/v3.44.4/oci-cli-3.44.4-Windows-Server-Installer.msi",   
+    "hash": "b7652ede8cc16e5ec9c258101998d8c88f87ee47c46c08a8a145414f53a9056b",
+    "bin": [
+        "oci.exe"
+    ]
+  }
