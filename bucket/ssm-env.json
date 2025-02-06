@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Expose values persisted in AWS Parameter Store as environment variables.",
   "homepage": "https://github.com/gplassard/ssm-env",
-  "url": "https://github.com/gplassard/ssm-env/releases/download/v0.2.0/ssm-env-x86_64-pc-windows-gnu.exe#/ssm-env.exe",
-  "hash": "c293373e54ae2b22ac4294a9da06f02bc62566166314b2dec45110e5d337a046",
-  "extract_dir": "ssm-env-0.2.0",
+  "url": "https://github.com/gplassard/ssm-env/releases/download/v0.2.1/ssm-env-x86_64-pc-windows-gnu.exe#/ssm-env.exe",
+  "hash": "280155ba94a8401684d8246f27d1422a0e39476acdf9b4552ba31ccf36aa2d0d",
+  "extract_dir": "ssm-env-0.2.1",
   "bin": "ssm-env.exe"
 }
